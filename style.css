@@ -1,0 +1,7 @@
+#only_div {
+    height: 100vh;
+    width: 100vw;
+    /* background-color: aquamarine; */
+    display: grid;
+    place-items: center;
+}
